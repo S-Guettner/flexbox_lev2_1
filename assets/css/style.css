@@ -4,10 +4,10 @@
 }
 
 main{
+    justify-content: center;
     padding: 1%;
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
     row-gap: 10px;
     column-gap: 10px;
 }
